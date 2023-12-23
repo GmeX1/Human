@@ -1,1 +1,10 @@
-В README отсутствует упоминание кнопок после шляпы
+Пункт 2) В README отсутствует упоминание кнопок после шляпы
+Пункт 4) Если в удалённом репозитории всё ещё рассматривается именно ветка demo, то у неё 7 коммитов:
+(сортировка от свежих к старым)
+-Merge branch 'buttons' into demo
+-dots
+-README added
+-Merge branch 'boots' into release
+-boots
+-heat added
+-init
